@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://datamall.mytransport.sg/LTAoDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">ERPRateSet</title>
+  <id>http://datamall.mytransport.sg/ltaodataservice.svc/ERPRateSet</id>
+  <updated>2012-02-10T09:25:04Z</updated>
+  <link rel="self" title="ERPRateSet" href="ERPRateSet" />
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236026)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT4 Day Type: Weekdays Time: 07:00 - 07:05 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236026)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236026</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT4</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:05</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT4 Day Type: Weekdays Time: 07:00 - 07:05 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.733</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236027)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236027)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236027</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>BKE</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.75</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236028)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236028)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236028</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.763</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236029)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236029)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236029</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>EC1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.783</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236030)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236030)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236030</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>KP1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.793</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236031)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:NIC Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236031)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236031</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>NIC</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:NIC Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.8</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236032)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OR1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236032)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236032</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>OR1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OR1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.81</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236033)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236033)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236033</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.83</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236034)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE2 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236034)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236034</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE2</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE2 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.843</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236035)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236035)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236035</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE3</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.853</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236036)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236036)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236036</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE4</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.873</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236037)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:THM Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236037)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236037</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>THM</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>07:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:THM Day Type: Weekdays Time: 07:00 - 07:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.883</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236038)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:AY1 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236038)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236038</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>AY1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:AY1 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.893</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236039)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BMC Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236039)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236039</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>BMC</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BMC Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.9</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236040)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CBD Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236040)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236040</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CBD</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CBD Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.917</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236041)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:DZ1 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236041)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236041</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>DZ1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:DZ1 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.927</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236042)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC2 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236042)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236042</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>EC2</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC2 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.937</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236043)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:GBZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236043)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236043</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>GBZ</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:GBZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.947</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236044)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KBZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236044)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236044</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>KBZ</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KBZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.957</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236045)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC3 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236045)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236045</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>OC3</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC3 Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:31.993</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236046)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:TPZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236046)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236046</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>TPZ</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:TPZ Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.003</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236047)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:UBT Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236047)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236047</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>UBT</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:UBT Day Type: Weekdays Time: 07:00 - 08:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.013</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236048)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKZ Day Type: Weekdays Time: 07:00 - 08:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236048)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236048</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>BKZ</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKZ Day Type: Weekdays Time: 07:00 - 08:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.027</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236049)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KAL Day Type: Weekdays Time: 07:00 - 08:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236049)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236049</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>KAL</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>08:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KAL Day Type: Weekdays Time: 07:00 - 08:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.033</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236050)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC1 Day Type: Weekdays Time: 07:00 - 12:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236050)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236050</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>OC1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>12:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC1 Day Type: Weekdays Time: 07:00 - 12:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.043</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236051)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC2 Day Type: Weekdays Time: 07:00 - 12:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236051)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236051</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>OC2</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>12:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OC2 Day Type: Weekdays Time: 07:00 - 12:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.053</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236052)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT6 Day Type: Weekdays Time: 07:00 - 17:30 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236052)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236052</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT6</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>17:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT6 Day Type: Weekdays Time: 07:00 - 17:30 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.063</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236053)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT5 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236053)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236053</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT5</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>18:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT5 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.077</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236054)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC3 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236054)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236054</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>EC3</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>18:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC3 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.087</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236055)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:SR1 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236055)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236055</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>SR1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>18:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:SR1 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.153</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236056)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:SR2 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236056)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236056</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>SR2</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0</d:ChargeAmount>
+        <d:StartTime>07:00</d:StartTime>
+        <d:EndTime>18:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:SR2 Day Type: Weekdays Time: 07:00 - 18:00 Amount: 0</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.167</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236057)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT4 Day Type: Weekdays Time: 07:05 - 09:00 Amount: 1</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236057)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236057</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT4</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1</d:ChargeAmount>
+        <d:StartTime>07:05</d:StartTime>
+        <d:EndTime>09:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT4 Day Type: Weekdays Time: 07:05 - 09:00 Amount: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.18</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236058)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.8</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236058)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236058</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>BKE</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.8</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.8</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.19</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236059)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.8</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236059)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236059</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.8</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.8</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.213</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236060)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236060)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236060</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>EC1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.237</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236061)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236061)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236061</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>KP1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.247</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236062)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236062)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236062</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.287</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236063)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE2 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236063)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236063</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE2</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE2 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.3</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236064)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.8</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236064)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236064</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE3</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1.8</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 1.8</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.313</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236065)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236065)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236065</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE4</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>07:35</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:30 - 07:35 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.323</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236066)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:NIC Day Type: Weekdays Time: 07:30 - 08:00 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236066)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236066</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>NIC</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:NIC Day Type: Weekdays Time: 07:30 - 08:00 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.34</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236067)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:THM Day Type: Weekdays Time: 07:30 - 08:00 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236067)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236067</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>THM</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:THM Day Type: Weekdays Time: 07:30 - 08:00 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.35</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236068)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OR1 Day Type: Weekdays Time: 07:30 - 08:30 Amount: 0.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236068)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236068</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>OR1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">0.5</d:ChargeAmount>
+        <d:StartTime>07:30</d:StartTime>
+        <d:EndTime>08:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:OR1 Day Type: Weekdays Time: 07:30 - 08:30 Amount: 0.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.363</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236069)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 3</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236069)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236069</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>EC1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">3</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>07:55</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:EC1 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 3</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.373</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236070)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 3</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236070)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236070</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>KP1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">3</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>07:55</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:KP1 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 3</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.39</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236071)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 1</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236071)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236071</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE4</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>07:55</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE4 Day Type: Weekdays Time: 07:35 - 07:55 Amount: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.44</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236072)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:35 - 08:00 Amount: 1.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236072)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236072</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>CT1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1.5</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:CT1 Day Type: Weekdays Time: 07:35 - 08:00 Amount: 1.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.453</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236073)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:35 - 08:00 Amount: 3.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236073)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236073</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE3</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">3.5</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>08:00</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE3 Day Type: Weekdays Time: 07:35 - 08:00 Amount: 3.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.47</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236074)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:35 - 08:30 Amount: 1.5</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236074)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236074</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>BKE</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1.5</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>08:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:BKE Day Type: Weekdays Time: 07:35 - 08:30 Amount: 1.5</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.48</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/ERPRateSet(236075)</id>
+    <title type="text">Passenger Cars/Light Goods Vehicles/Taxis</title>
+    <summary type="text">VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:35 - 08:30 Amount: 1</summary>
+    <updated>2012-02-10T09:25:04Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="ERPRate" href="ERPRateSet(236075)" />
+    <category term="LTAModel.ERPRate" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:ERPID m:type="Edm.Int32">236075</d:ERPID>
+        <d:VCCType>Passenger Cars/Light Goods Vehicles/Taxis</d:VCCType>
+        <d:DayType>Weekdays</d:DayType>
+        <d:EffectiveDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:EffectiveDate>
+        <d:ZoneID>PE1</d:ZoneID>
+        <d:ChargeAmount m:type="Edm.Double">1</d:ChargeAmount>
+        <d:StartTime>07:35</d:StartTime>
+        <d:EndTime>08:30</d:EndTime>
+        <d:Summary>VCC Type: Passenger Cars/Light Goods Vehicles/Taxis Zone ID:PE1 Day Type: Weekdays Time: 07:35 - 08:30 Amount: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.493</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

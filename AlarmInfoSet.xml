@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://datamall.mytransport.sg/LTAoDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">AlarmInfoSet</title>
+  <id>http://datamall.mytransport.sg/ltaodataservice.svc/AlarmInfoSet</id>
+  <updated>2012-02-10T09:24:39Z</updated>
+  <link rel="self" title="AlarmInfoSet" href="AlarmInfoSet" />
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/AlarmInfoSet(5926)</id>
+    <title type="text">(9/2)7:49 Black Out at Commonwealth Drive Junc.</title>
+    <summary type="text">Message: (9/2)7:49 Black Out at Commonwealth Drive Junc.</summary>
+    <updated>2012-02-10T09:24:39Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AlarmInfo" href="AlarmInfoSet(5926)" />
+    <category term="LTAModel.AlarmInfo" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:AlarmInfoID m:type="Edm.Int32">5926</d:AlarmInfoID>
+        <d:AlarmID>GL703007644</d:AlarmID>
+        <d:NodeID m:type="Edm.Int32">703007644</d:NodeID>
+        <d:StartDate m:type="Edm.DateTime">2012-02-09T07:49:34</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">1900-01-01T00:00:00</d:EndDate>
+        <d:Type m:type="Edm.Int32">2</d:Type>
+        <d:Message>(9/2)7:49 Black Out at Commonwealth Drive Junc.</d:Message>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-08T23:57:07.317</d:CreateDate>
+        <d:Sumary>Message: (9/2)7:49 Black Out at Commonwealth Drive Junc.</d:Sumary>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

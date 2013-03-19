@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://datamall.mytransport.sg/LTAoDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">TravelTimeSet</title>
+  <id>http://datamall.mytransport.sg/ltaodataservice.svc/TravelTimeSet</id>
+  <updated>2012-03-15T02:14:10Z</updated>
+  <link rel="self" title="TravelTimeSet" href="TravelTimeSet" />
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172766)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: AYE/ECP INTERCHANGE End Point: TELOK BLANGAH RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172766)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172766</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>AYE/ECP INTERCHANGE</d:StartPoint>
+        <d:EndPoint>TELOK BLANGAH RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: AYE/ECP INTERCHANGE End Point: TELOK BLANGAH RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.793</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172767)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: TELOK BLANGAH RD End Point: LOWER DELTA RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172767)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172767</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>TELOK BLANGAH RD</d:StartPoint>
+        <d:EndPoint>LOWER DELTA RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: TELOK BLANGAH RD End Point: LOWER DELTA RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.803</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172768)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: LOWER DELTA RD End Point: NORMANTON PARK Estimated Time: 3</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172768)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172768</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>LOWER DELTA RD</d:StartPoint>
+        <d:EndPoint>NORMANTON PARK</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">3</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: LOWER DELTA RD End Point: NORMANTON PARK Estimated Time: 3</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.813</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172769)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: NORMANTON PARK End Point: NORTH BUONA VISTA RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172769)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172769</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>NORMANTON PARK</d:StartPoint>
+        <d:EndPoint>NORTH BUONA VISTA RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: NORMANTON PARK End Point: NORTH BUONA VISTA RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.823</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172770)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: NORTH BUONA VISTA RD End Point: CLEMENTI RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172770)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172770</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>NORTH BUONA VISTA RD</d:StartPoint>
+        <d:EndPoint>CLEMENTI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: NORTH BUONA VISTA RD End Point: CLEMENTI RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.833</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172771)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: CLEMENTI RD End Point: WEST COAST RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172771)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172771</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>CLEMENTI RD</d:StartPoint>
+        <d:EndPoint>WEST COAST RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: CLEMENTI RD End Point: WEST COAST RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.843</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172772)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: WEST COAST RD End Point: CLEMENTI AVE 6 Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172772)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172772</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>WEST COAST RD</d:StartPoint>
+        <d:EndPoint>CLEMENTI AVE 6</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: WEST COAST RD End Point: CLEMENTI AVE 6 Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.853</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172773)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: CLEMENTI AVE 6 End Point: JURONG TOWN HALL RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172773)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172773</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>CLEMENTI AVE 6</d:StartPoint>
+        <d:EndPoint>JURONG TOWN HALL RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: CLEMENTI AVE 6 End Point: JURONG TOWN HALL RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.863</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172774)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: JURONG TOWN HALL RD End Point: PENJURU RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172774)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172774</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>JURONG TOWN HALL RD</d:StartPoint>
+        <d:EndPoint>PENJURU RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: JURONG TOWN HALL RD End Point: PENJURU RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.873</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172775)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: PENJURU RD End Point: JURONG PORT RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172775)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172775</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>PENJURU RD</d:StartPoint>
+        <d:EndPoint>JURONG PORT RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: PENJURU RD End Point: JURONG PORT RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.883</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172776)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: JURONG PORT RD End Point: JURONG PIER RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172776)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172776</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>JURONG PORT RD</d:StartPoint>
+        <d:EndPoint>JURONG PIER RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: JURONG PORT RD End Point: JURONG PIER RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.893</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172777)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: JURONG PIER RD End Point: PIONEER CIRCUS Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172777)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172777</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>JURONG PIER RD</d:StartPoint>
+        <d:EndPoint>PIONEER CIRCUS</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: JURONG PIER RD End Point: PIONEER CIRCUS Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.903</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172778)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: PIONEER CIRCUS End Point: BENOI RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172778)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172778</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>PIONEER CIRCUS</d:StartPoint>
+        <d:EndPoint>BENOI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: PIONEER CIRCUS End Point: BENOI RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.913</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172779)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: BENOI RD End Point: AYE/PIE INTERCHANGE Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172779)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172779</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>BENOI RD</d:StartPoint>
+        <d:EndPoint>AYE/PIE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: BENOI RD End Point: AYE/PIE INTERCHANGE Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.923</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172780)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: AYE/PIE INTERCHANGE End Point: TUAS WEST RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172780)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172780</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>AYE/PIE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>TUAS WEST RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: AYE/PIE INTERCHANGE End Point: TUAS WEST RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.933</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172781)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: TUAS WEST RD End Point: TUAS WEST DRIVE Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172781)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172781</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>TUAS WEST RD</d:StartPoint>
+        <d:EndPoint>TUAS WEST DRIVE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: TUAS WEST RD End Point: TUAS WEST DRIVE Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.943</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172782)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: TUAS WEST DRIVE End Point: TUAS CHECKPOINT Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172782)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172782</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>TUAS CHECKPOINT</d:FarEndPoint>
+        <d:StartPoint>TUAS WEST DRIVE</d:StartPoint>
+        <d:EndPoint>TUAS CHECKPOINT</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: TUAS WEST DRIVE End Point: TUAS CHECKPOINT Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.953</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172783)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: TUAS CHECKPOINT End Point: TUAS WEST RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172783)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172783</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>TUAS CHECKPOINT</d:StartPoint>
+        <d:EndPoint>TUAS WEST RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: TUAS CHECKPOINT End Point: TUAS WEST RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.963</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172784)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: TUAS WEST RD End Point: AYE/PIE INTERCHANGE Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172784)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172784</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>TUAS WEST RD</d:StartPoint>
+        <d:EndPoint>AYE/PIE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: TUAS WEST RD End Point: AYE/PIE INTERCHANGE Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.973</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172785)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: AYE/PIE INTERCHANGE End Point: BENOI RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172785)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172785</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>AYE/PIE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>BENOI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: AYE/PIE INTERCHANGE End Point: BENOI RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.983</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172786)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: BENOI RD End Point: PIONEER CIRCUS Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172786)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172786</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>BENOI RD</d:StartPoint>
+        <d:EndPoint>PIONEER CIRCUS</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: BENOI RD End Point: PIONEER CIRCUS Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:25.993</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172787)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: PIONEER CIRCUS End Point: JALAN BOON LAY Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172787)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172787</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>PIONEER CIRCUS</d:StartPoint>
+        <d:EndPoint>JALAN BOON LAY</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: PIONEER CIRCUS End Point: JALAN BOON LAY Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.003</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172788)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: JALAN BOON LAY End Point: YUAN CHING RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172788)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172788</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>JALAN BOON LAY</d:StartPoint>
+        <d:EndPoint>YUAN CHING RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: JALAN BOON LAY End Point: YUAN CHING RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.01</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172789)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: YUAN CHING RD End Point: JURONG TOWN HALL RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172789)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172789</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>YUAN CHING RD</d:StartPoint>
+        <d:EndPoint>JURONG TOWN HALL RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: YUAN CHING RD End Point: JURONG TOWN HALL RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.02</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172790)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: JURONG TOWN HALL RD End Point: CLEMENTI AVE 6 Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172790)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172790</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>JURONG TOWN HALL RD</d:StartPoint>
+        <d:EndPoint>CLEMENTI AVE 6</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: JURONG TOWN HALL RD End Point: CLEMENTI AVE 6 Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.03</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172791)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: CLEMENTI AVE 6 End Point: CLEMENTI AVE 2 Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172791)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172791</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>CLEMENTI AVE 6</d:StartPoint>
+        <d:EndPoint>CLEMENTI AVE 2</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: CLEMENTI AVE 6 End Point: CLEMENTI AVE 2 Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.04</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172792)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: CLEMENTI AVE 2 End Point: CLEMENTI RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172792)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172792</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>CLEMENTI AVE 2</d:StartPoint>
+        <d:EndPoint>CLEMENTI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: CLEMENTI AVE 2 End Point: CLEMENTI RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.05</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172793)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: CLEMENTI RD End Point: NORTH BUONA VISTA RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172793)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172793</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>CLEMENTI RD</d:StartPoint>
+        <d:EndPoint>NORTH BUONA VISTA RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: CLEMENTI RD End Point: NORTH BUONA VISTA RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.06</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172794)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: NORTH BUONA VISTA RD End Point: PORTSDOWN RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172794)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172794</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>NORTH BUONA VISTA RD</d:StartPoint>
+        <d:EndPoint>PORTSDOWN RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: NORTH BUONA VISTA RD End Point: PORTSDOWN RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.07</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172795)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: PORTSDOWN RD End Point: ALEXANDRA RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172795)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172795</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>PORTSDOWN RD</d:StartPoint>
+        <d:EndPoint>ALEXANDRA RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: PORTSDOWN RD End Point: ALEXANDRA RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.077</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172796)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: ALEXANDRA RD End Point: LOWER DELTA RD Estimated Time: 3</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172796)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172796</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>ALEXANDRA RD</d:StartPoint>
+        <d:EndPoint>LOWER DELTA RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">3</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: ALEXANDRA RD End Point: LOWER DELTA RD Estimated Time: 3</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.087</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172797)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: LOWER DELTA RD End Point: KEPPEL RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172797)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172797</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>LOWER DELTA RD</d:StartPoint>
+        <d:EndPoint>KEPPEL RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: LOWER DELTA RD End Point: KEPPEL RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.097</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172798)</id>
+    <title type="text">AYE</title>
+    <summary type="text">Name: AYE Start Point: KEPPEL RD End Point: AYE/ECP INTERCHANGE Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172798)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172798</d:TravelTimeID>
+        <d:Name>AYE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>CITY</d:FarEndPoint>
+        <d:StartPoint>KEPPEL RD</d:StartPoint>
+        <d:EndPoint>AYE/ECP INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: AYE Start Point: KEPPEL RD End Point: AYE/ECP INTERCHANGE Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.107</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172799)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BKE/PIE INTERCHANGE End Point: DIARY FARM Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172799)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172799</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>BKE/PIE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>DIARY FARM</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BKE/PIE INTERCHANGE End Point: DIARY FARM Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.113</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172800)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: DIARY FARM End Point: BUKIT PANJANG RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172800)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172800</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>DIARY FARM</d:StartPoint>
+        <d:EndPoint>BUKIT PANJANG RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: DIARY FARM End Point: BUKIT PANJANG RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.123</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172801)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BUKIT PANJANG RD End Point: BKE/KJE INTERCHANGE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172801)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172801</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>BUKIT PANJANG RD</d:StartPoint>
+        <d:EndPoint>BKE/KJE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BUKIT PANJANG RD End Point: BKE/KJE INTERCHANGE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.137</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172802)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BKE/KJE INTERCHANGE End Point: MANDAI RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172802)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172802</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>BKE/KJE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>MANDAI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BKE/KJE INTERCHANGE End Point: MANDAI RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.147</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172803)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: MANDAI RD End Point: BKE/SLE INTERCHANGE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172803)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172803</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>MANDAI RD</d:StartPoint>
+        <d:EndPoint>BKE/SLE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: MANDAI RD End Point: BKE/SLE INTERCHANGE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.153</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172804)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BKE/SLE INTERCHANGE End Point: WOODLANDS AVE 3 Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172804)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172804</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>BKE/SLE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>WOODLANDS AVE 3</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BKE/SLE INTERCHANGE End Point: WOODLANDS AVE 3 Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.163</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172805)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: WOODLANDS AVE 3 End Point: WOODLANDS CENTRE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172805)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172805</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>WOODLANDS CENTRE</d:FarEndPoint>
+        <d:StartPoint>WOODLANDS AVE 3</d:StartPoint>
+        <d:EndPoint>WOODLANDS CENTRE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: WOODLANDS AVE 3 End Point: WOODLANDS CENTRE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.173</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172806)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: WOODLANDS CENTRE End Point: BKE/SLE INTERCHANGE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172806)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172806</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>WOODLANDS CENTRE</d:StartPoint>
+        <d:EndPoint>BKE/SLE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: WOODLANDS CENTRE End Point: BKE/SLE INTERCHANGE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.183</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172807)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BKE/SLE INTERCHANGE End Point: MANDAI RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172807)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172807</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>BKE/SLE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>MANDAI RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BKE/SLE INTERCHANGE End Point: MANDAI RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.193</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172808)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: MANDAI RD End Point: BKE/KJE INTERCHANGE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172808)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172808</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>MANDAI RD</d:StartPoint>
+        <d:EndPoint>BKE/KJE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: MANDAI RD End Point: BKE/KJE INTERCHANGE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.203</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172809)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BKE/KJE INTERCHANGE End Point: BUKIT PANJANG RD Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172809)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172809</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>BKE/KJE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>BUKIT PANJANG RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BKE/KJE INTERCHANGE End Point: BUKIT PANJANG RD Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.213</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172810)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: BUKIT PANJANG RD End Point: DIARY FARM ROAD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172810)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172810</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>BUKIT PANJANG RD</d:StartPoint>
+        <d:EndPoint>DIARY FARM ROAD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: BUKIT PANJANG RD End Point: DIARY FARM ROAD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.22</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172811)</id>
+    <title type="text">BKE</title>
+    <summary type="text">Name: BKE Start Point: DIARY FARM ROAD End Point: BKE/PIE INTERCHANGE Estimated Time: 2</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172811)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172811</d:TravelTimeID>
+        <d:Name>BKE</d:Name>
+        <d:Direction m:type="Edm.Int32">2</d:Direction>
+        <d:FarEndPoint>PIE</d:FarEndPoint>
+        <d:StartPoint>DIARY FARM ROAD</d:StartPoint>
+        <d:EndPoint>BKE/PIE INTERCHANGE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">2</d:EstimatedTime>
+        <d:Summary>Name: BKE Start Point: DIARY FARM ROAD End Point: BKE/PIE INTERCHANGE Estimated Time: 2</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.23</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172812)</id>
+    <title type="text">CTE</title>
+    <summary type="text">Name: CTE Start Point: AYE/CTE INTERCHANGE End Point: OUTRAM RD Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172812)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172812</d:TravelTimeID>
+        <d:Name>CTE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>SLE/CTE INTERCHANGE</d:FarEndPoint>
+        <d:StartPoint>AYE/CTE INTERCHANGE</d:StartPoint>
+        <d:EndPoint>OUTRAM RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: CTE Start Point: AYE/CTE INTERCHANGE End Point: OUTRAM RD Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.24</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172813)</id>
+    <title type="text">CTE</title>
+    <summary type="text">Name: CTE Start Point: OUTRAM RD End Point: CLEMENCEAU AVE Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172813)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172813</d:TravelTimeID>
+        <d:Name>CTE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>SLE/CTE INTERCHANGE</d:FarEndPoint>
+        <d:StartPoint>OUTRAM RD</d:StartPoint>
+        <d:EndPoint>CLEMENCEAU AVE</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: CTE Start Point: OUTRAM RD End Point: CLEMENCEAU AVE Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.25</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172814)</id>
+    <title type="text">CTE</title>
+    <summary type="text">Name: CTE Start Point: CLEMENCEAU AVE End Point: MOULMEIN RD Estimated Time: 3</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172814)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172814</d:TravelTimeID>
+        <d:Name>CTE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>SLE/CTE INTERCHANGE</d:FarEndPoint>
+        <d:StartPoint>CLEMENCEAU AVE</d:StartPoint>
+        <d:EndPoint>MOULMEIN RD</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">3</d:EstimatedTime>
+        <d:Summary>Name: CTE Start Point: CLEMENCEAU AVE End Point: MOULMEIN RD Estimated Time: 3</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.26</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/TravelTimeSet(10172815)</id>
+    <title type="text">CTE</title>
+    <summary type="text">Name: CTE Start Point: MOULMEIN RD End Point: JALAN BAHAGIA Estimated Time: 1</summary>
+    <updated>2012-03-15T02:14:10Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TravelTime" href="TravelTimeSet(10172815)" />
+    <category term="LTAModel.TravelTime" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:TravelTimeID m:type="Edm.Int32">10172815</d:TravelTimeID>
+        <d:Name>CTE</d:Name>
+        <d:Direction m:type="Edm.Int32">1</d:Direction>
+        <d:FarEndPoint>SLE/CTE INTERCHANGE</d:FarEndPoint>
+        <d:StartPoint>MOULMEIN RD</d:StartPoint>
+        <d:EndPoint>JALAN BAHAGIA</d:EndPoint>
+        <d:EstimatedTime m:type="Edm.Int32">1</d:EstimatedTime>
+        <d:Summary>Name: CTE Start Point: MOULMEIN RD End Point: JALAN BAHAGIA Estimated Time: 1</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:12:26.27</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

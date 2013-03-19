@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://datamall.mytransport.sg/LTAoDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">VMSSet</title>
+  <id>http://datamall.mytransport.sg/ltaodataservice.svc/VMSSet</id>
+  <updated>2012-03-15T02:13:19Z</updated>
+  <link rel="self" title="VMSSet" href="VMSSet" />
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(1)</id>
+    <title type="text">SPEED CAMERA AHEAD,</title>
+    <summary type="text">Message: SPEED CAMERA AHEAD, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(1)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">1</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:59:25</d:Date>
+        <d:EquipmentID>VMS_0026</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>SPEED CAMERA AHEAD,</d:Message>
+        <d:Summary>Message: SPEED CAMERA AHEAD, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.36</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3520126023225627</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.8996617438024</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3520126023225627</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.8996617438024</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(2)</id>
+    <title type="text">ERP AFT|TUNNEL-FCT|12NOON-8PM/PENANG RD  and |ORCHARD|THRU TUNNEL</title>
+    <summary type="text">Message: ERP AFT|TUNNEL-FCT|12NOON-8PM/PENANG RD  and |ORCHARD|THRU TUNNEL Attribute: st</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(2)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">2</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2011-10-14T12:00:42</d:Date>
+        <d:EquipmentID>TMD_00_00001</d:EquipmentID>
+        <d:Attribute>st</d:Attribute>
+        <d:Message>ERP AFT|TUNNEL-FCT|12NOON-8PM/PENANG RD  and |ORCHARD|THRU TUNNEL</d:Message>
+        <d:Summary>Message: ERP AFT|TUNNEL-FCT|12NOON-8PM/PENANG RD  and |ORCHARD|THRU TUNNEL Attribute: st</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2011-10-14T04:45:31.157</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2949469391706112</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.84958118986744</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2949469391706112</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.84958118986744</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(3)</id>
+    <title type="text">ERP AFT|TUNNEL-FCT|12NOON-8PM</title>
+    <summary type="text">Message: ERP AFT|TUNNEL-FCT|12NOON-8PM Attribute: st</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(3)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">3</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2011-10-14T12:00:46</d:Date>
+        <d:EquipmentID>AVMS_00_00001</d:EquipmentID>
+        <d:Attribute>st</d:Attribute>
+        <d:Message>ERP AFT|TUNNEL-FCT|12NOON-8PM</d:Message>
+        <d:Summary>Message: ERP AFT|TUNNEL-FCT|12NOON-8PM Attribute: st</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2011-10-14T04:45:31.143</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2934851009043578</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.84991771894261</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2934851009043578</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.84991771894261</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(4)</id>
+    <title type="text">ERP AFT|TUNNEL-FCT|12NOON-8PM/SELEGIE RD|KEEP RIGHT|</title>
+    <summary type="text">Message: ERP AFT|TUNNEL-FCT|12NOON-8PM/SELEGIE RD|KEEP RIGHT| Attribute: st</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(4)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">4</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2011-10-14T12:00:46</d:Date>
+        <d:EquipmentID>AVMS_00_00002</d:EquipmentID>
+        <d:Attribute>st</d:Attribute>
+        <d:Message>ERP AFT|TUNNEL-FCT|12NOON-8PM/SELEGIE RD|KEEP RIGHT|</d:Message>
+        <d:Summary>Message: ERP AFT|TUNNEL-FCT|12NOON-8PM/SELEGIE RD|KEEP RIGHT| Attribute: st</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2011-10-14T04:45:31.15</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2936388891398625</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.84891014713229</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2936388891398625</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.84891014713229</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(5)</id>
+    <title type="text">PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL</title>
+    <summary type="text">Message: PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(5)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">5</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T08:48:22</d:Date>
+        <d:EquipmentID>AVMS_0007</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL</d:Message>
+        <d:Summary>Message: PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T01:45:05.817</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3170678578239643</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87474047949917</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3170678578239643</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87474047949917</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(6)</id>
+    <title type="text">PLANT PRUNING LN 5,AFT KJE</title>
+    <summary type="text">Message: PLANT PRUNING LN 5,AFT KJE Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(6)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">6</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:53:59</d:Date>
+        <d:EquipmentID>amvms_v6118</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>PLANT PRUNING LN 5,AFT KJE</d:Message>
+        <d:Summary>Message: PLANT PRUNING LN 5,AFT KJE Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.497</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3551723583430682</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.72343164507616</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3551723583430682</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.72343164507616</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(7)</id>
+    <title type="text">HEAVY VEHICLES,KEEP LEFT</title>
+    <summary type="text">Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(7)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">7</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T12:36:07</d:Date>
+        <d:EquipmentID>amvms_v6124</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HEAVY VEHICLES,KEEP LEFT</d:Message>
+        <d:Summary>Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T05:31:42.88</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3595061969912057</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.70211326843304</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3595061969912057</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.70211326843304</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(8)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(8)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">8</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-13T22:24:39</d:Date>
+        <d:EquipmentID>amvms_v6112</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-13T15:21:13.13</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3329935561246726</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.7707567648829</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3329935561246726</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.7707567648829</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(9)</id>
+    <title type="text">HEAVY VEHICLES,KEEP LEFT</title>
+    <summary type="text">Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(9)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">9</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-13T22:24:40</d:Date>
+        <d:EquipmentID>amvms_v6114</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HEAVY VEHICLES,KEEP LEFT</d:Message>
+        <d:Summary>Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-13T15:21:13.12</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3413899175157633</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.74886539380007</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3413899175157633</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.74886539380007</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(10)</id>
+    <title type="text">TURN ON HEADLIGHTS,</title>
+    <summary type="text">Message: TURN ON HEADLIGHTS, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(10)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">10</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T07:01:22</d:Date>
+        <d:EquipmentID>VMS_0017</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TURN ON HEADLIGHTS,</d:Message>
+        <d:Summary>Message: TURN ON HEADLIGHTS, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T23:59:48.527</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3344253381122249</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.89139722463786</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3344253381122249</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.89139722463786</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(11)</id>
+    <title type="text">HEAVY VEHS KEEP LEFT,</title>
+    <summary type="text">Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(11)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">11</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T19:19:47</d:Date>
+        <d:EquipmentID>VMS_0015</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>HEAVY VEHS KEEP LEFT,</d:Message>
+        <d:Summary>Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T12:17:41.53</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3336850524956283</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88994435264502</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3336850524956283</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88994435264502</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(12)</id>
+    <title type="text">SPEED CAMERA AHEAD,</title>
+    <summary type="text">Message: SPEED CAMERA AHEAD, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(12)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">12</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T03:36:51</d:Date>
+        <d:EquipmentID>VMS_0013</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>SPEED CAMERA AHEAD,</d:Message>
+        <d:Summary>Message: SPEED CAMERA AHEAD, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T20:34:28.517</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3334340611946651</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88949154180251</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3334340611946651</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88949154180251</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(13)</id>
+    <title type="text">HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL</title>
+    <summary type="text">Message: HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(13)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">13</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:20:15</d:Date>
+        <d:EquipmentID>amvms_v3196</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL</d:Message>
+        <d:Summary>Message: HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.81</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2839649816298289</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.86158629999414</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2839649816298289</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.86158629999414</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(14)</id>
+    <title type="text">HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL</title>
+    <summary type="text">Message: HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(14)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">14</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:21:50</d:Date>
+        <d:EquipmentID>amvms_v3194</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL</d:Message>
+        <d:Summary>Message: HEAVY TRAFFIC AFT/HEAVY TRAFFIC TO,PR EDWARD/KEPPEL Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.8</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.295427239140494</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88162316237052</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.295427239140494</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88162316237052</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(15)</id>
+    <title type="text">HEAVY VEHICLES,KEEP LEFT</title>
+    <summary type="text">Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(15)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">15</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T04:07:44</d:Date>
+        <d:EquipmentID>amvms_v4101</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HEAVY VEHICLES,KEEP LEFT</d:Message>
+        <d:Summary>Message: HEAVY VEHICLES,KEEP LEFT Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T21:04:32.083</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2764786513005959</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.827746218204</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2764786513005959</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.827746218204</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(16)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(16)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">16</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T03:14:22</d:Date>
+        <d:EquipmentID>amvms_v3197</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T20:14:25.443</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2835514533468493</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.86111584283132</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2835514533468493</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.86111584283132</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(17)</id>
+    <title type="text">HEAVY VEHS KEEP LEFT,</title>
+    <summary type="text">Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(17)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">17</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T08:38:11</d:Date>
+        <d:EquipmentID>VMS_0016</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>HEAVY VEHS KEEP LEFT,</d:Message>
+        <d:Summary>Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T01:35:04.267</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.324903045932919</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88446465388375</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.324903045932919</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88446465388375</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(18)</id>
+    <title type="text">TURN ON HEADLIGHTS,</title>
+    <summary type="text">Message: TURN ON HEADLIGHTS, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(18)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">18</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T07:01:33</d:Date>
+        <d:EquipmentID>VMS_0022</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TURN ON HEADLIGHTS,</d:Message>
+        <d:Summary>Message: TURN ON HEADLIGHTS, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T23:59:48.517</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.34990094614126</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.8988041965316</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.34990094614126</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.8988041965316</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(19)</id>
+    <title type="text">HEAVY VEHS KEEP LEFT,</title>
+    <summary type="text">Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(19)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">19</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:59:47</d:Date>
+        <d:EquipmentID>VMS_0024</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>HEAVY VEHS KEEP LEFT,</d:Message>
+        <d:Summary>Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.32</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3515167479888983</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.89945650664951</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3515167479888983</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.89945650664951</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(20)</id>
+    <title type="text">ROAD SHOULDER,</title>
+    <summary type="text">Message: ROAD SHOULDER, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(20)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">20</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:01:32</d:Date>
+        <d:EquipmentID>VMS_0018</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>ROAD SHOULDER,</d:Message>
+        <d:Summary>Message: ROAD SHOULDER, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.24</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.326458907005531</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88476594043914</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.326458907005531</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88476594043914</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(21)</id>
+    <title type="text">DO NOT DRIVE ON,</title>
+    <summary type="text">Message: DO NOT DRIVE ON, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(21)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">21</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:00:12</d:Date>
+        <d:EquipmentID>VMS_0020</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>DO NOT DRIVE ON,</d:Message>
+        <d:Summary>Message: DO NOT DRIVE ON, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.307</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3270283331348669</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88483225292622</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3270283331348669</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88483225292622</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(22)</id>
+    <title type="text">USE SOS PHONE,FOR HELP,IN KPE TUNNEL</title>
+    <summary type="text">Message: USE SOS PHONE,FOR HELP,IN KPE TUNNEL Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(22)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">22</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:00:07</d:Date>
+        <d:EquipmentID>EVMS_RS10</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>USE SOS PHONE,FOR HELP,IN KPE TUNNEL</d:Message>
+        <d:Summary>Message: USE SOS PHONE,FOR HELP,IN KPE TUNNEL Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.313</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.334989415855738</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.89276633962893</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.334989415855738</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.89276633962893</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(23)</id>
+    <title type="text">TURN ON LOCAL RADIO,</title>
+    <summary type="text">Message: TURN ON LOCAL RADIO, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(23)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">23</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:01:20</d:Date>
+        <d:EquipmentID>VMS_0011</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TURN ON LOCAL RADIO,</d:Message>
+        <d:Summary>Message: TURN ON LOCAL RADIO, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T17:59:05.747</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3301110226612654</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88502947778606</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3301110226612654</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88502947778606</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(24)</id>
+    <title type="text">DRIVE WITH CARE,</title>
+    <summary type="text">Message: DRIVE WITH CARE, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(24)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">24</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T10:32:28</d:Date>
+        <d:EquipmentID>VMS_0009</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>DRIVE WITH CARE,</d:Message>
+        <d:Summary>Message: DRIVE WITH CARE, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T03:31:28.537</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3286101877895382</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88485490857788</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3286101877895382</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88485490857788</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(25)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(25)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">25</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-05T13:11:06</d:Date>
+        <d:EquipmentID>amvms_v4112</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-05T06:07:56.78</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2981451788740921</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.78144608870215</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2981451788740921</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.78144608870215</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(26)</id>
+    <title type="text">SPEED CAMERA AHEAD,</title>
+    <summary type="text">Message: SPEED CAMERA AHEAD, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(26)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">26</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T23:18:02</d:Date>
+        <d:EquipmentID>VMS_0007</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>SPEED CAMERA AHEAD,</d:Message>
+        <d:Summary>Message: SPEED CAMERA AHEAD, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T16:18:11.797</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3280387399913405</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88480886019256</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3280387399913405</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88480886019256</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(27)</id>
+    <title type="text">TURN ON HEADLIGHTS,</title>
+    <summary type="text">Message: TURN ON HEADLIGHTS, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(27)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">27</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:18:32</d:Date>
+        <d:EquipmentID>VMS_0005</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TURN ON HEADLIGHTS,</d:Message>
+        <d:Summary>Message: TURN ON HEADLIGHTS, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.867</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3102202731653008</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87555337786318</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3102202731653008</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87555337786318</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(28)</id>
+    <title type="text">TURN ON LOCAL RADIO,</title>
+    <summary type="text">Message: TURN ON LOCAL RADIO, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(28)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">28</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T07:05:49</d:Date>
+        <d:EquipmentID>VMS_0003</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TURN ON LOCAL RADIO,</d:Message>
+        <d:Summary>Message: TURN ON LOCAL RADIO, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T00:04:49.317</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3082504701395163</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87616021234084</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3082504701395163</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87616021234084</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(29)</id>
+    <title type="text">HEAVY VEHS KEEP LEFT,</title>
+    <summary type="text">Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(29)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">29</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T07:07:06</d:Date>
+        <d:EquipmentID>VMS_0001</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>HEAVY VEHS KEEP LEFT,</d:Message>
+        <d:Summary>Message: HEAVY VEHS KEEP LEFT, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T00:04:49.307</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3075798405563794</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87641719273084</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3075798405563794</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87641719273084</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(30)</id>
+    <title type="text">16 MAR 12MN-5AM,KPE(ECP) EXIT,CLOSED</title>
+    <summary type="text">Message: 16 MAR 12MN-5AM,KPE(ECP) EXIT,CLOSED Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(30)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">30</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:57:36</d:Date>
+        <d:EquipmentID>EVMS_RQ10</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>16 MAR 12MN-5AM,KPE(ECP) EXIT,CLOSED</d:Message>
+        <d:Summary>Message: 16 MAR 12MN-5AM,KPE(ECP) EXIT,CLOSED Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.37</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.324836347934202</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.8720338832313</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.324836347934202</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.8720338832313</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(31)</id>
+    <title type="text">DRIVE SAFELY,SPEED CAMERAS,IN KPE TUNNEL</title>
+    <summary type="text">Message: DRIVE SAFELY,SPEED CAMERAS,IN KPE TUNNEL Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(31)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">31</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:48:37</d:Date>
+        <d:EquipmentID>EVMS_RG10</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>DRIVE SAFELY,SPEED CAMERAS,IN KPE TUNNEL</d:Message>
+        <d:Summary>Message: DRIVE SAFELY,SPEED CAMERAS,IN KPE TUNNEL Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.54</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3144430376179737</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87474391989932</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3144430376179737</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87474391989932</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(32)</id>
+    <title type="text">PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL</title>
+    <summary type="text">Message: PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(32)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">32</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:08:15</d:Date>
+        <d:EquipmentID>EVMS_RF10</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL</d:Message>
+        <d:Summary>Message: PLEASE TURN,ON LOCAL RADIO,WHEN IN TUNNEL Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.063</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3067507816612909</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.8730312947188</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3067507816612909</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.8730312947188</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(33)</id>
+    <title type="text">RD SHOULDER CLOSED,DRIVE WITH CARE</title>
+    <summary type="text">Message: RD SHOULDER CLOSED,DRIVE WITH CARE Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(33)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">33</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T09:05:51</d:Date>
+        <d:EquipmentID>amvms_v7199</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>RD SHOULDER CLOSED,DRIVE WITH CARE</d:Message>
+        <d:Summary>Message: RD SHOULDER CLOSED,DRIVE WITH CARE Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T02:06:09.043</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.40106950008028</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.86280190263859</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.40106950008028</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.86280190263859</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(34)</id>
+    <title type="text"></title>
+    <summary type="text">Message:  Attribute: ssl</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(34)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">34</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:44:38</d:Date>
+        <d:EquipmentID>aattd_v7396</d:EquipmentID>
+        <d:Attribute>ssl</d:Attribute>
+        <d:Message></d:Message>
+        <d:Summary>Message:  Attribute: ssl</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T18:44:13.303</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3955869718313738</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.90270818257062</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3955869718313738</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.90270818257062</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(35)</id>
+    <title type="text"></title>
+    <summary type="text">Message:  Attribute: ssl</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(35)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">35</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:44:37</d:Date>
+        <d:EquipmentID>aattd_v7399</d:EquipmentID>
+        <d:Attribute>ssl</d:Attribute>
+        <d:Message></d:Message>
+        <d:Summary>Message:  Attribute: ssl</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T18:44:13.33</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.399432854889908</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.90495439163972</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.399432854889908</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.90495439163972</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(36)</id>
+    <title type="text"></title>
+    <summary type="text">Message:  Attribute: ssl</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(36)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">36</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:44:37</d:Date>
+        <d:EquipmentID>aattd_v7386</d:EquipmentID>
+        <d:Attribute>ssl</d:Attribute>
+        <d:Message></d:Message>
+        <d:Summary>Message:  Attribute: ssl</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T18:44:13.313</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3965000036613364</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.89468999841785</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3965000036613364</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.89468999841785</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(37)</id>
+    <title type="text">DRIVE AHEAD,TO KPE TUNNEL,</title>
+    <summary type="text">Message: DRIVE AHEAD,TO KPE TUNNEL, Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(37)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">37</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:00:18</d:Date>
+        <d:EquipmentID>TID_0006</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>DRIVE AHEAD,TO KPE TUNNEL,</d:Message>
+        <d:Summary>Message: DRIVE AHEAD,TO KPE TUNNEL, Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.297</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3785819397561758</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.91364779125588</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3785819397561758</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.91364779125588</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(38)</id>
+    <title type="text"></title>
+    <summary type="text">Message:  Attribute: ssl</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(38)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">38</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T08:33:40</d:Date>
+        <d:EquipmentID>aattd_v1331</d:EquipmentID>
+        <d:Attribute>ssl</d:Attribute>
+        <d:Message></d:Message>
+        <d:Summary>Message:  Attribute: ssl</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T01:30:58.703</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.2875806057746741</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.84549618606604</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.2875806057746741</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.84549618606604</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(39)</id>
+    <title type="text"></title>
+    <summary type="text">Message:  Attribute: ssl</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(39)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">39</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T16:07:10</d:Date>
+        <d:EquipmentID>aattd_v2302</d:EquipmentID>
+        <d:Attribute>ssl</d:Attribute>
+        <d:Message></d:Message>
+        <d:Summary>Message:  Attribute: ssl</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T09:07:05.913</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3769391685994972</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.7736249364702</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3769391685994972</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.7736249364702</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(40)</id>
+    <title type="text">DRIVE SAFELY,SPEED CAMERAS ,IN KPE TUNNEL</title>
+    <summary type="text">Message: DRIVE SAFELY,SPEED CAMERAS ,IN KPE TUNNEL Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(40)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">40</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T09:17:21</d:Date>
+        <d:EquipmentID>AVMS_0005</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>DRIVE SAFELY,SPEED CAMERAS ,IN KPE TUNNEL</d:Message>
+        <d:Summary>Message: DRIVE SAFELY,SPEED CAMERAS ,IN KPE TUNNEL Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.877</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3089509948178313</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87598280054058</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3089509948178313</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87598280054058</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(41)</id>
+    <title type="text">VEH BREAKDOWN SH,AFT CHANGI</title>
+    <summary type="text">Message: VEH BREAKDOWN SH,AFT CHANGI Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(41)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">41</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T10:07:53</d:Date>
+        <d:EquipmentID>amvms_v3180</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>VEH BREAKDOWN SH,AFT CHANGI</d:Message>
+        <d:Summary>Message: VEH BREAKDOWN SH,AFT CHANGI Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T02:10:11.107</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3425188741917116</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.98253844129935</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3425188741917116</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.98253844129935</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(42)</id>
+    <title type="text">TVMS_MARINA_CTR_USE_EXIT_2A</title>
+    <summary type="text">Message: TVMS_MARINA_CTR_USE_EXIT_2A Attribute: kpe</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(42)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">42</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-13T15:45:49</d:Date>
+        <d:EquipmentID>VMS_0008</d:EquipmentID>
+        <d:Attribute>kpe</d:Attribute>
+        <d:Message>TVMS_MARINA_CTR_USE_EXIT_2A</d:Message>
+        <d:Summary>Message: TVMS_MARINA_CTR_USE_EXIT_2A Attribute: kpe</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-13T08:45:00.08</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3147171033705087</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.87485742475884</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3147171033705087</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.87485742475884</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(43)</id>
+    <title type="text">VEH BREAKDOWN ON,SLE(BKE)</title>
+    <summary type="text">Message: VEH BREAKDOWN ON,SLE(BKE) Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(43)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">43</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T06:09:30</d:Date>
+        <d:EquipmentID>amvms_v7198</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>VEH BREAKDOWN ON,SLE(BKE)</d:Message>
+        <d:Summary>Message: VEH BREAKDOWN ON,SLE(BKE) Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T23:09:42.25</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.4007915860583875</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.86489339076807</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.4007915860583875</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.86489339076807</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(44)</id>
+    <title type="text">HAVE A SAFE AND,PLEASANT DRIVE</title>
+    <summary type="text">Message: HAVE A SAFE AND,PLEASANT DRIVE Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(44)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">44</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:44:40</d:Date>
+        <d:EquipmentID>amvms_v7192</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>HAVE A SAFE AND,PLEASANT DRIVE</d:Message>
+        <d:Summary>Message: HAVE A SAFE AND,PLEASANT DRIVE Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T18:44:13.293</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3774802873879757</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.92684139800237</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3774802873879757</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.92684139800237</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(45)</id>
+    <title type="text">VEH BREAKDOWN ON,SLE(BKE)</title>
+    <summary type="text">Message: VEH BREAKDOWN ON,SLE(BKE) Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(45)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">45</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T06:09:31</d:Date>
+        <d:EquipmentID>amvms_v7196</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>VEH BREAKDOWN ON,SLE(BKE)</d:Message>
+        <d:Summary>Message: VEH BREAKDOWN ON,SLE(BKE) Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T23:09:42.243</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.401170739261689</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.88326417303008</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.401170739261689</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.88326417303008</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(46)</id>
+    <title type="text">DRIVE SAFELY-THINK,OF OUR LOVED ONES</title>
+    <summary type="text">Message: DRIVE SAFELY-THINK,OF OUR LOVED ONES Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(46)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">46</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T08:25:15</d:Date>
+        <d:EquipmentID>amvms_v7194</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>DRIVE SAFELY-THINK,OF OUR LOVED ONES</d:Message>
+        <d:Summary>Message: DRIVE SAFELY-THINK,OF OUR LOVED ONES Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-15T01:25:02.9</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3927285797778437</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.9081845855732</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3927285797778437</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.9081845855732</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(47)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(47)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">47</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T11:01:58</d:Date>
+        <d:EquipmentID>amvms_v7190</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T04:01:32.9</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3726652713829981</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.93768213506192</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3726652713829981</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.93768213506192</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(48)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(48)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">48</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T01:33:49</d:Date>
+        <d:EquipmentID>amvms_v7188</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T18:29:11.183</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3650919719297858</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.95424121852798</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3650919719297858</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.95424121852798</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(49)</id>
+    <title type="text">,</title>
+    <summary type="text">Message: , Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(49)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">49</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-15T00:13:56</d:Date>
+        <d:EquipmentID>amvms_v7195</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>,</d:Message>
+        <d:Summary>Message: , Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T17:14:00.633</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3924853841365683</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.90885088793502</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3924853841365683</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.90885088793502</geo:long>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/VMSSet(50)</id>
+    <title type="text">DRIVE SAFELY-THINK,OF OUR LOVED ONES</title>
+    <summary type="text">Message: DRIVE SAFELY-THINK,OF OUR LOVED ONES Attribute: sst</summary>
+    <updated>2012-03-15T02:13:19Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="VMS" href="VMSSet(50)" />
+    <category term="LTAModel.VMS" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:VMSID m:type="Edm.Int32">50</d:VMSID>
+        <d:Date m:type="Edm.DateTime">2012-03-14T09:35:25</d:Date>
+        <d:EquipmentID>amvms_v7193</d:EquipmentID>
+        <d:Attribute>sst</d:Attribute>
+        <d:Message>DRIVE SAFELY-THINK,OF OUR LOVED ONES</d:Message>
+        <d:Summary>Message: DRIVE SAFELY-THINK,OF OUR LOVED ONES Attribute: sst</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-03-14T02:31:14.54</d:CreateDate>
+        <d:Latitude m:type="Edm.Double">1.3784397584456911</d:Latitude>
+        <d:Longitude m:type="Edm.Double">103.924787381573</d:Longitude>
+        <d:Distance m:type="Edm.Double">0</d:Distance>
+      </m:properties>
+    </content>
+    <geo:lat xmlns:geo="http://www.georss.org/georss">1.3784397584456911</geo:lat>
+    <geo:long xmlns:geo="http://www.georss.org/georss">103.924787381573</geo:long>
+  </entry>
+</feed>

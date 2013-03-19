@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="http://datamall.mytransport.sg/LTAoDataService.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">RoadWorkSet</title>
+  <id>http://datamall.mytransport.sg/ltaodataservice.svc/RoadWorkSet</id>
+  <updated>2012-02-10T09:26:11Z</updated>
+  <link rel="self" title="RoadWorkSet" href="RoadWorkSet" />
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196818)</id>
+    <title type="text">ADAM ROAD</title>
+    <summary type="text">Road Name: ADAM ROAD Date: 1/16/2012 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 66651243</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196818)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196818</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0353</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-16T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-31T00:00:00</d:EndDate>
+        <d:SvcDept>SINGTEL - ACCESS NETWORK MANAGEMENT DEPT</d:SvcDept>
+        <d:RoadName>ADAM ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 66651243</d:Other>
+        <d:Summary>Road Name: ADAM ROAD Date: 1/16/2012 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 66651243</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.39</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196819)</id>
+    <title type="text">ADAM ROAD</title>
+    <summary type="text">Road Name: ADAM ROAD Date: 1/13/2012 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 66651243</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196819)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196819</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0349</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-13T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-31T00:00:00</d:EndDate>
+        <d:SvcDept>SINGTEL - ACCESS NETWORK MANAGEMENT DEPT</d:SvcDept>
+        <d:RoadName>ADAM ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 66651243</d:Other>
+        <d:Summary>Road Name: ADAM ROAD Date: 1/13/2012 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 66651243</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.44</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196820)</id>
+    <title type="text">ADAM ROAD</title>
+    <summary type="text">Road Name: ADAM ROAD Date: 1/10/2012 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 62405271</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196820)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196820</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0097</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-10T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>ADAM ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62405271</d:Other>
+        <d:Summary>Road Name: ADAM ROAD Date: 1/10/2012 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 62405271</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.457</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196821)</id>
+    <title type="text">ADIS ROAD</title>
+    <summary type="text">Road Name: ADIS ROAD Date: 3/25/2011 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 63378212</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196821)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196821</d:RoadWorkID>
+        <d:RoadID>RMAPP-201103-0710</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-03-25T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-11-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADIS ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63378212</d:Other>
+        <d:Summary>Road Name: ADIS ROAD Date: 3/25/2011 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 63378212</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.47</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196822)</id>
+    <title type="text">ADIS ROAD</title>
+    <summary type="text">Road Name: ADIS ROAD Date: 9/2/2010 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 63378212</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196822)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196822</d:RoadWorkID>
+        <d:RoadID>RMAPP-201009-0030</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-09-02T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-11-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADIS ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63378212</d:Other>
+        <d:Summary>Road Name: ADIS ROAD Date: 9/2/2010 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 63378212</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.487</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196823)</id>
+    <title type="text">ADIS ROAD</title>
+    <summary type="text">Road Name: ADIS ROAD Date: 5/1/2010 12:00:00 AM - 12/25/2012 12:00:00 AM Other Info: For details, please call 62740311</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196823)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196823</d:RoadWorkID>
+        <d:RoadID>RMAPP-201005-0001</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-05-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-12-25T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADIS ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62740311</d:Other>
+        <d:Summary>Road Name: ADIS ROAD Date: 5/1/2010 12:00:00 AM - 12/25/2012 12:00:00 AM Other Info: For details, please call 62740311</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.497</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196824)</id>
+    <title type="text">ADMIRALTY DRIVE</title>
+    <summary type="text">Road Name: ADMIRALTY DRIVE Date: 12/7/2011 12:00:00 AM - 10/20/2012 12:00:00 AM Other Info: For details, please call 67833869</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196824)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196824</d:RoadWorkID>
+        <d:RoadID>RMAPP-201111-0978</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-07T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-10-20T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADMIRALTY DRIVE</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67833869</d:Other>
+        <d:Summary>Road Name: ADMIRALTY DRIVE Date: 12/7/2011 12:00:00 AM - 10/20/2012 12:00:00 AM Other Info: For details, please call 67833869</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.513</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196825)</id>
+    <title type="text">ADMIRALTY LANE</title>
+    <summary type="text">Road Name: ADMIRALTY LANE Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196825)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196825</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0764</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-08-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - DISTRIBUTION PROJ</d:SvcDept>
+        <d:RoadName>ADMIRALTY LANE</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62909136</d:Other>
+        <d:Summary>Road Name: ADMIRALTY LANE Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.53</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196826)</id>
+    <title type="text">ADMIRALTY LINK</title>
+    <summary type="text">Road Name: ADMIRALTY LINK Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196826)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196826</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0764</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-08-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - DISTRIBUTION PROJ</d:SvcDept>
+        <d:RoadName>ADMIRALTY LINK</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62909136</d:Other>
+        <d:Summary>Road Name: ADMIRALTY LINK Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.57</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196827)</id>
+    <title type="text">ADMIRALTY LINK</title>
+    <summary type="text">Road Name: ADMIRALTY LINK Date: 12/7/2011 12:00:00 AM - 10/20/2012 12:00:00 AM Other Info: For details, please call 67833869</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196827)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196827</d:RoadWorkID>
+        <d:RoadID>RMAPP-201111-0978</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-07T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-10-20T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADMIRALTY LINK</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67833869</d:Other>
+        <d:Summary>Road Name: ADMIRALTY LINK Date: 12/7/2011 12:00:00 AM - 10/20/2012 12:00:00 AM Other Info: For details, please call 67833869</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.587</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196828)</id>
+    <title type="text">ADMIRALTY ROAD</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD Date: 1/30/2012 12:00:00 AM - 4/27/2012 12:00:00 AM Other Info: For details, please call 62409236</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196828)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196828</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0647</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-30T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-04-27T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62409236</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD Date: 1/30/2012 12:00:00 AM - 4/27/2012 12:00:00 AM Other Info: For details, please call 62409236</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.6</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196829)</id>
+    <title type="text">ADMIRALTY ROAD</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD Date: 12/27/2011 12:00:00 AM - 3/26/2012 12:00:00 AM Other Info: For details, please call 65172238</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196829)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196829</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0754</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-27T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-26T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - WATER RECLAMATION (NETWORK) DEPT</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65172238</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD Date: 12/27/2011 12:00:00 AM - 3/26/2012 12:00:00 AM Other Info: For details, please call 65172238</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.613</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196830)</id>
+    <title type="text">ADMIRALTY ROAD EAST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD EAST Date: 1/30/2012 12:00:00 AM - 3/8/2012 12:00:00 AM Other Info: For details, please call 63146196</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196830)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196830</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0823</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-30T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-08T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - REGIONAL NETWORK NORTH</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD EAST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63146196</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD EAST Date: 1/30/2012 12:00:00 AM - 3/8/2012 12:00:00 AM Other Info: For details, please call 63146196</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.63</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196831)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 2/2/2012 12:00:00 AM - 3/13/2012 12:00:00 AM Other Info: For details, please call 63146196</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196831)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196831</d:RoadWorkID>
+        <d:RoadID>RMAPP-201202-0159</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-02T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-13T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - REGIONAL NETWORK NORTH</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63146196</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 2/2/2012 12:00:00 AM - 3/13/2012 12:00:00 AM Other Info: For details, please call 63146196</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.643</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196832)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 1/25/2012 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 66651244</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196832)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196832</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0620</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-25T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-04-30T00:00:00</d:EndDate>
+        <d:SvcDept>SINGTEL - ACCESS NETWORK MANAGEMENT DEPT</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 66651244</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 1/25/2012 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 66651244</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.653</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196833)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 12/26/2011 12:00:00 AM - 3/14/2012 12:00:00 AM Other Info: For details, please call 62409244</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196833)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196833</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0609</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-26T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-14T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62409244</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 12/26/2011 12:00:00 AM - 3/14/2012 12:00:00 AM Other Info: For details, please call 62409244</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.697</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196834)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 12/5/2011 12:00:00 AM - 3/23/2012 12:00:00 AM Other Info: For details, please call 62409236</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196834)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196834</d:RoadWorkID>
+        <d:RoadID>RMAPP-201111-0922</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-05T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-23T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62409236</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 12/5/2011 12:00:00 AM - 3/23/2012 12:00:00 AM Other Info: For details, please call 62409236</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.72</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196835)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 10/27/2011 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 65659110</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196835)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196835</d:RoadWorkID>
+        <d:RoadID>RMAPP-201110-0798</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-10-27T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-04-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65659110</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 10/27/2011 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 65659110</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.727</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196836)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 10/3/2011 12:00:00 AM - 3/30/2012 12:00:00 AM Other Info: For details, please call 67487744</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196836)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196836</d:RoadWorkID>
+        <d:RoadID>RMAPP-201109-1007</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-10-03T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67487744</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 10/3/2011 12:00:00 AM - 3/30/2012 12:00:00 AM Other Info: For details, please call 67487744</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.74</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196837)</id>
+    <title type="text">ADMIRALTY ROAD WEST</title>
+    <summary type="text">Road Name: ADMIRALTY ROAD WEST Date: 6/24/2011 12:00:00 AM - 6/23/2012 12:00:00 AM Other Info: For details, please call 67487744</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196837)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196837</d:RoadWorkID>
+        <d:RoadID>RMAPP-201106-0753</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-06-24T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-06-23T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ADMIRALTY ROAD WEST</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67487744</d:Other>
+        <d:Summary>Road Name: ADMIRALTY ROAD WEST Date: 6/24/2011 12:00:00 AM - 6/23/2012 12:00:00 AM Other Info: For details, please call 67487744</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.75</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196838)</id>
+    <title type="text">ADMIRALTY STREET</title>
+    <summary type="text">Road Name: ADMIRALTY STREET Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196838)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196838</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0764</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-08-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - DISTRIBUTION PROJ</d:SvcDept>
+        <d:RoadName>ADMIRALTY STREET</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62909136</d:Other>
+        <d:Summary>Road Name: ADMIRALTY STREET Date: 2/6/2012 12:00:00 AM - 8/31/2012 12:00:00 AM Other Info: For details, please call 62909136</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.767</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196839)</id>
+    <title type="text">AH HOOD ROAD</title>
+    <summary type="text">Road Name: AH HOOD ROAD Date: 6/10/2011 12:00:00 AM - 3/20/2012 12:00:00 AM Other Info: For details, please call 63574791</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196839)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196839</d:RoadWorkID>
+        <d:RoadID>RMAPP-201106-0243</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-06-10T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-20T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - BEST SOURCING DEPARTMENT</d:SvcDept>
+        <d:RoadName>AH HOOD ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63574791</d:Other>
+        <d:Summary>Road Name: AH HOOD ROAD Date: 6/10/2011 12:00:00 AM - 3/20/2012 12:00:00 AM Other Info: For details, please call 63574791</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.78</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196840)</id>
+    <title type="text">AH HOOD ROAD</title>
+    <summary type="text">Road Name: AH HOOD ROAD Date: 6/1/2011 12:00:00 AM - 3/20/2012 12:00:00 AM Other Info: For details, please call 63574791</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196840)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196840</d:RoadWorkID>
+        <d:RoadID>RMAPP-201106-0005</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-06-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-20T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - BEST SOURCING DEPARTMENT</d:SvcDept>
+        <d:RoadName>AH HOOD ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63574791</d:Other>
+        <d:Summary>Road Name: AH HOOD ROAD Date: 6/1/2011 12:00:00 AM - 3/20/2012 12:00:00 AM Other Info: For details, please call 63574791</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.793</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196841)</id>
+    <title type="text">AH HOOD ROAD</title>
+    <summary type="text">Road Name: AH HOOD ROAD Date: 4/18/2011 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 67483372</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196841)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196841</d:RoadWorkID>
+        <d:RoadID>RMAPP-201104-0390</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-04-18T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-11-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AH HOOD ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67483372</d:Other>
+        <d:Summary>Road Name: AH HOOD ROAD Date: 4/18/2011 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 67483372</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.89</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196842)</id>
+    <title type="text">AH HOOD ROAD</title>
+    <summary type="text">Road Name: AH HOOD ROAD Date: 11/19/2010 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 67483372</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196842)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196842</d:RoadWorkID>
+        <d:RoadID>RMAPP-201011-0321</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-11-19T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-11-30T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AH HOOD ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67483372</d:Other>
+        <d:Summary>Road Name: AH HOOD ROAD Date: 11/19/2010 12:00:00 AM - 11/30/2012 12:00:00 AM Other Info: For details, please call 67483372</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.907</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196843)</id>
+    <title type="text">AIDA STREET</title>
+    <summary type="text">Road Name: AIDA STREET Date: 11/11/2011 12:00:00 AM - 5/31/2012 12:00:00 AM Other Info: For details, please call 62409220</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196843)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196843</d:RoadWorkID>
+        <d:RoadID>RMAPP-201111-0248</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-11-11T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-05-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>AIDA STREET</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62409220</d:Other>
+        <d:Summary>Road Name: AIDA STREET Date: 11/11/2011 12:00:00 AM - 5/31/2012 12:00:00 AM Other Info: For details, please call 62409220</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.92</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196844)</id>
+    <title type="text">AIRPORT BOULEVARD</title>
+    <summary type="text">Road Name: AIRPORT BOULEVARD Date: 5/6/2011 12:00:00 AM - 3/2/2012 12:00:00 AM Other Info: For details, please call 63574854</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196844)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196844</d:RoadWorkID>
+        <d:RoadID>RMAPP-201105-0105</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-05-06T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-02T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT BOULEVARD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63574854</d:Other>
+        <d:Summary>Road Name: AIRPORT BOULEVARD Date: 5/6/2011 12:00:00 AM - 3/2/2012 12:00:00 AM Other Info: For details, please call 63574854</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.937</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196845)</id>
+    <title type="text">AIRPORT BOULEVARD</title>
+    <summary type="text">Road Name: AIRPORT BOULEVARD Date: 2/22/2010 12:00:00 AM - 8/27/2013 12:00:00 AM Other Info: For details, please call 63446686</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196845)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196845</d:RoadWorkID>
+        <d:RoadID>RMAPP-201002-0243</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-02-22T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2013-08-27T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT BOULEVARD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63446686</d:Other>
+        <d:Summary>Road Name: AIRPORT BOULEVARD Date: 2/22/2010 12:00:00 AM - 8/27/2013 12:00:00 AM Other Info: For details, please call 63446686</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.95</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196846)</id>
+    <title type="text">AIRPORT BOULEVARD</title>
+    <summary type="text">Road Name: AIRPORT BOULEVARD Date: 2/22/2010 12:00:00 AM - 8/27/2013 12:00:00 AM Other Info: For details, please call 63446686</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196846)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196846</d:RoadWorkID>
+        <d:RoadID>RMAPP-201002-0243</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-02-22T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2013-08-27T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT BOULEVARD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63446686</d:Other>
+        <d:Summary>Road Name: AIRPORT BOULEVARD Date: 2/22/2010 12:00:00 AM - 8/27/2013 12:00:00 AM Other Info: For details, please call 63446686</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.96</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196847)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 2/1/2012 12:00:00 AM - 3/30/2012 12:00:00 AM Other Info: For details, please call 62409237</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196847)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196847</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0714</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-30T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (EAST)</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62409237</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 2/1/2012 12:00:00 AM - 3/30/2012 12:00:00 AM Other Info: For details, please call 62409237</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.97</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196848)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 1/30/2012 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 6332 8173</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196848)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196848</d:RoadWorkID>
+        <d:RoadID>RMINRM-201201-0457</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-30T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-04-30T00:00:00</d:EndDate>
+        <d:SvcDept>LAND TRANSPORT AUTHORITY</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 6332 8173</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 1/30/2012 12:00:00 AM - 4/30/2012 12:00:00 AM Other Info: For details, please call 6332 8173</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.98</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196849)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 1/10/2012 12:00:00 AM - 8/7/2012 12:00:00 AM Other Info: For details, please call 64713033</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196849)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196849</d:RoadWorkID>
+        <d:RoadID>RMAPP-201201-0175</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-10T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-08-07T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 64713033</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 1/10/2012 12:00:00 AM - 8/7/2012 12:00:00 AM Other Info: For details, please call 64713033</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:32.993</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196850)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 12/1/2011 12:00:00 AM - 10/24/2012 12:00:00 AM Other Info: For details, please call 67952919</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196850)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196850</d:RoadWorkID>
+        <d:RoadID>RMAPP-201111-0887</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-10-24T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67952919</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 12/1/2011 12:00:00 AM - 10/24/2012 12:00:00 AM Other Info: For details, please call 67952919</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.003</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196851)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 8/31/2011 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 62727071</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196851)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196851</d:RoadWorkID>
+        <d:RoadID>RMAPP-201108-0121</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-08-31T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-12-31T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62727071</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 8/31/2011 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 62727071</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.01</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196852)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 6/1/2011 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 62909148</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196852)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196852</d:RoadWorkID>
+        <d:RoadID>RMAPP-201105-0568</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-06-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-12-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - EHV PROJECTS</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62909148</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 6/1/2011 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 62909148</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.023</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196853)</id>
+    <title type="text">AIRPORT ROAD</title>
+    <summary type="text">Road Name: AIRPORT ROAD Date: 4/19/2010 12:00:00 AM - 3/14/2012 12:00:00 AM Other Info: For details, please call 65172370</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196853)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196853</d:RoadWorkID>
+        <d:RoadID>RMAPP-201004-0083</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-04-19T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-14T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - BEST SOURCING DEPARTMENT</d:SvcDept>
+        <d:RoadName>AIRPORT ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65172370</d:Other>
+        <d:Summary>Road Name: AIRPORT ROAD Date: 4/19/2010 12:00:00 AM - 3/14/2012 12:00:00 AM Other Info: For details, please call 65172370</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.037</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196854)</id>
+    <title type="text">AKYAB ROAD</title>
+    <summary type="text">Road Name: AKYAB ROAD Date: 12/19/2011 12:00:00 AM - 3/1/2012 12:00:00 AM Other Info: For details, please call 62249339</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196854)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196854</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0273</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-19T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-01T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>AKYAB ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62249339</d:Other>
+        <d:Summary>Road Name: AKYAB ROAD Date: 12/19/2011 12:00:00 AM - 3/1/2012 12:00:00 AM Other Info: For details, please call 62249339</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.057</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196855)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 1/15/2012 12:00:00 AM - 2/24/2012 12:00:00 AM Other Info: For details, please call 63483962</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196855)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196855</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0878</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-15T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-02-24T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 63483962</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 1/15/2012 12:00:00 AM - 2/24/2012 12:00:00 AM Other Info: For details, please call 63483962</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.07</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196856)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 12/27/2011 12:00:00 AM - 7/20/2012 12:00:00 AM Other Info: For details, please call 64713033</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196856)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196856</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0574</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-27T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-20T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 64713033</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 12/27/2011 12:00:00 AM - 7/20/2012 12:00:00 AM Other Info: For details, please call 64713033</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.08</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196857)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 12/26/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 62799530</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196857)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196857</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0368</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-26T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - CUSTOMER PROJ (WEST)</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62799530</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 12/26/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 62799530</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.087</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196858)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 12/21/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 67313852</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196858)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196858</d:RoadWorkID>
+        <d:RoadID>RMINRM-201112-0443</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-21T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-31T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - BEST SOURCING DEPARTMENT</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67313852</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 12/21/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 67313852</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.097</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196859)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 12/7/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 62830503</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196859)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196859</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0160</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-07T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-03-31T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62830503</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 12/7/2011 12:00:00 AM - 3/31/2012 12:00:00 AM Other Info: For details, please call 62830503</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.11</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196860)</id>
+    <title type="text">ALEXANDRA ROAD</title>
+    <summary type="text">Road Name: ALEXANDRA ROAD Date: 11/4/2011 12:00:00 AM - 2/29/2012 12:00:00 AM Other Info: For details, please call 68852405</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196860)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196860</d:RoadWorkID>
+        <d:RoadID>RMAPP-201110-0896</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-11-04T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-02-29T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - (WSN DEPT) - CUSTOMER PROJECTS</d:SvcDept>
+        <d:RoadName>ALEXANDRA ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 68852405</d:Other>
+        <d:Summary>Road Name: ALEXANDRA ROAD Date: 11/4/2011 12:00:00 AM - 2/29/2012 12:00:00 AM Other Info: For details, please call 68852405</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.12</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196861)</id>
+    <title type="text">ALJUNIED AVENUE 2</title>
+    <summary type="text">Road Name: ALJUNIED AVENUE 2 Date: 7/31/2010 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 62740311</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196861)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196861</d:RoadWorkID>
+        <d:RoadID>RMAPP-201007-0370</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2010-07-31T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-31T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ALJUNIED AVENUE 2</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 62740311</d:Other>
+        <d:Summary>Road Name: ALJUNIED AVENUE 2 Date: 7/31/2010 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 62740311</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.127</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196862)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 2/6/2012 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 65939452</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196862)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196862</d:RoadWorkID>
+        <d:RoadID>RMAPP-201202-0118</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-06T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-12-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - REGIONAL PROJ EAST</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65939452</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 2/6/2012 12:00:00 AM - 12/31/2012 12:00:00 AM Other Info: For details, please call 65939452</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.15</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196863)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 2/1/2012 12:00:00 AM - 2/20/2012 12:00:00 AM Other Info: For details, please call 67319921</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196863)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196863</d:RoadWorkID>
+        <d:RoadID>RMINRM-201202-0011</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-02-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-02-20T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - CATCHMENT AND WATERWAYS</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67319921</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 2/1/2012 12:00:00 AM - 2/20/2012 12:00:00 AM Other Info: For details, please call 67319921</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.163</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196864)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 1/28/2012 12:00:00 AM - 2/12/2012 12:00:00 AM Other Info: For details, please call 67319921</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196864)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196864</d:RoadWorkID>
+        <d:RoadID>RMINRM-201201-0455</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2012-01-28T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-02-12T00:00:00</d:EndDate>
+        <d:SvcDept>PUB - CATCHMENT AND WATERWAYS</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 67319921</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 1/28/2012 12:00:00 AM - 2/12/2012 12:00:00 AM Other Info: For details, please call 67319921</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.177</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196865)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 12/30/2011 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 65939452</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196865)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196865</d:RoadWorkID>
+        <d:RoadID>RMAPP-201112-0787</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-12-30T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - REGIONAL PROJ EAST</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65939452</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 12/30/2011 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 65939452</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.183</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196866)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 11/14/2011 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 65939452</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196866)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196866</d:RoadWorkID>
+        <d:RoadID>RMAPP-201110-0897</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-11-14T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-31T00:00:00</d:EndDate>
+        <d:SvcDept>SP POWERGRID LTD - REGIONAL PROJ EAST</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 65939452</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 11/14/2011 12:00:00 AM - 7/31/2012 12:00:00 AM Other Info: For details, please call 65939452</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.19</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://datamall.mytransport.sg/LTAoDataService.svc/RoadWorkSet(1196867)</id>
+    <title type="text">ALJUNIED ROAD</title>
+    <summary type="text">Road Name: ALJUNIED ROAD Date: 11/1/2011 12:00:00 AM - 7/1/2012 12:00:00 AM Other Info: For details, please call 64713033</summary>
+    <updated>2012-02-10T09:26:11Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="RoadWork" href="RoadWorkSet(1196867)" />
+    <category term="LTAModel.RoadWork" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:RoadWorkID m:type="Edm.Int32">1196867</d:RoadWorkID>
+        <d:RoadID>RMAPP-201110-0875</d:RoadID>
+        <d:Type>ROAD WORK</d:Type>
+        <d:StartDate m:type="Edm.DateTime">2011-11-01T00:00:00</d:StartDate>
+        <d:EndDate m:type="Edm.DateTime">2012-07-01T00:00:00</d:EndDate>
+        <d:SvcDept>PRIVATE</d:SvcDept>
+        <d:RoadName>ALJUNIED ROAD</d:RoadName>
+        <d:LaneClosure></d:LaneClosure>
+        <d:Other>For details, please call 64713033</d:Other>
+        <d:Summary>Road Name: ALJUNIED ROAD Date: 11/1/2011 12:00:00 AM - 7/1/2012 12:00:00 AM Other Info: For details, please call 64713033</d:Summary>
+        <d:CreateDate m:type="Edm.DateTime">2012-02-09T16:34:33.227</d:CreateDate>
+      </m:properties>
+    </content>
+  </entry>
+</feed>
