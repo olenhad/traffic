@@ -36,7 +36,7 @@
 (defn ohyeah []
   (reduce (fn [acc x]
              (str acc "&markers=label:R%7C" (ring/url-encode x)))
-           (build-url "http://maps.googleapis.com/maps/api/staticmap"
+           (build-url "maps.googleapis.com/maps/api/staticmap"
              {"center" "Singapore"
               "key" "AIzaSyBmkLA3tY_mZBq36oDBu98IJphpN3yUFxU"
               "sensor" "false"
@@ -51,6 +51,7 @@
    chain
    (inci)))
 
-(defn main []
+(defn -main [& args]
   (-> (ohyeah)
-      (moar)))
+      (moar)
+      (print)))
