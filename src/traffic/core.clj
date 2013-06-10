@@ -1,7 +1,8 @@
 (ns traffic.core
   (:require [clojure.xml :as xml]
             [clojure.zip :as zip]
-            [ring.util.codec :as ring])
+            [ring.util.codec :as ring]
+            [cheshire.core :refer :all])
   (:use [clojure.data.zip.xml]))
 
 
@@ -19,6 +20,14 @@
          (fn [loc]
            {:lat (xml1-> loc :geo:lat text)
             :long (xml1-> loc :geo:long text)})))
+
+(def json-spit (slurp "/home/omer/osxshare/spit.json"))
+
+(defn parsed-spit []
+  (map (fn [m]
+         {:lat (:LATITUDE m)
+          :long (:LONGITUDE m)})
+       (:GPS_DATA (parse-string json-spit true))))
 
 (defn make-query-string [m & [encoding]]
   (let [s #(if (instance? clojure.lang.Named %) (name %) %)
@@ -40,8 +49,8 @@
              {"center" "Singapore"
               "key" "AIzaSyBmkLA3tY_mZBq36oDBu98IJphpN3yUFxU"
               "sensor" "false"
-              "size" "600x600"
-              "zoom" "11"
+              "size" "800x800"
+              "zoom" "13"
               })
            (baz)))
 (defn moar [chain]
@@ -49,7 +58,8 @@
    (fn [acc x]
      (str acc "&markers=label:I%7Ccolor:green%7C" (x :lat) "," (x :long)))
    chain
-   (inci)))
+   (parsed-spit)
+   ))
 
 (defn -main [& args]
   (-> (ohyeah)
